@@ -1,0 +1,7 @@
+<note title="Discussion Venues" removeInRFC="true">
+<t>Discussion of this document takes place on the
+    Thing-to-Thing Research Group mailing list (t2trg@irtf.org),
+    which is archived at <eref target="https://mailarchive.ietf.org/arch/browse/t2trg"/>.</t>
+<t>Source for this draft and an issue tracker can be found at
+    <eref target="https://github.com/lorenzocorneo/draft-corneo-t2trg-sdf-coap-agents"/>.</t>
+</note>
