@@ -7,7 +7,7 @@ ipr: trust200902
 submissiontype: IRTF
 date: 2026
 
-workgroup: Thing-to-Thing Research Group (T2TRG)
+workgroup: "Thing-to-Thing"
 
 submissiontype: IRTF
 number:
